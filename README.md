@@ -14,9 +14,9 @@ The player controls a creature resembling a snake, which traverses around on a b
 This simple Java snake app was created using the library Swing (GUI widget toolkit for Java) and AWT (Abstract Window Toolkit which is the older version of Swing).
 Furthermore, this snake App is constructed in 3 java files.  
 
-1) SnakeApp.java    Calls the main function that runs the Snake App  
-2) GameFrame.java   Sets layout and functionality properties of the GUI when Snake App is opened  
-3) GamePanel.java   Applies game mechanics and rules allowing the user to control the moving snake with arrow keys  
+1) SnakeApp.java        Calls the main function that runs the Snake App  
+2) GameFrame.java       Sets layout and functionality properties of the GUI when Snake App is opened  
+3) GamePanel.java       Applies game mechanics and rules allowing the user to control the moving snake with arrow keys  
 
 # How to Run
 
